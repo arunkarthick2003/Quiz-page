@@ -1,1 +1,2 @@
 # Quiz-page
+This basically is a quiz website. Here login details is collected from the user in order to prevent user from taking quiz multiple time. The website throws an error message if user tries to take the quiz second time. The login details and the score obtained by user will be stored in our database. Here we have used mysql database. The result,start time of quiz, end time of quiz are displayed at the end of the quiz and is also stored in the database.
